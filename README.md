@@ -8,7 +8,7 @@ The YOLO (You only look once) based detector can detect upto 80 category of obje
 
 Our detector is also capable of performing detection of videos along with images. Feel free to go through the below mentioned instructions to run the application as well as look at the video for the same.
 
-#Instructions
+# Instructions
 
 1. Clone the repository using the git clone command 
 
