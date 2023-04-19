@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/38975177/210062518-183018e1-302b-4b3c-
 
 !!!Enjoy. Feel free to drop a star for this repository. Thanks!!! 😀
 
-![image](https://user-images.githubusercontent.com/38975177/233168368-fdcd6965-fab0-47af-a9b3-2f344ab4828d.png)
 #### Just a fun art demonstrating basic cat or dog classifier
+![image](https://user-images.githubusercontent.com/38975177/233168368-fdcd6965-fab0-47af-a9b3-2f344ab4828d.png)
 
 
